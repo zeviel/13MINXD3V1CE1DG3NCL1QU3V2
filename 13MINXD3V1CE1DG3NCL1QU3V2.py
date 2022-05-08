@@ -7,7 +7,7 @@ from colored import fore, style, attr; attr(0)
 print(fore.DARK_GREEN_SEA + style.BOLD)
 print("""Script by deluvsushi
 Github : https://github.com/deluvsushi""")
-print(figlet_format("AminoDeviceIdGenCliqueV2", font="smslant", width=64))
+print(figlet_format("13MINXD3V1CE1DG3NCL1QU3V2", font="smslant", width=64))
 
 def device_Id_generator(identifier: str):
 	return ("32" + identifier.hex() + new(bytes.fromhex("76b4a156aaccade137b8b1e77b435a81971fbd3e"), b"\x32" + identifier, sha1).hexdigest()).upper()
