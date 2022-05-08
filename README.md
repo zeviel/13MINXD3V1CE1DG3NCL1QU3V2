@@ -1,5 +1,5 @@
-# AminoDeviceIdGenCliqueV2
-deviceID generator for https://aminoapps.com v2
+# 13MINXD3V1CE1DG3NCL1QU3V2
+DeviceID generator for amino that starts with 32
 
 ## Termux
 ```shell
@@ -8,7 +8,7 @@ deviceID generator for https://aminoapps.com v2
 - pkg install python
 - pip install pyfiglet
 - pip install colored
-- git clone https://github.com/deluvsushi/AminoDeviceIdGenCliqueV2
-- cd AminoDeviceIdGenCliqueV2
-- python AminoDeviceIdGenCliqueV2.py
+- git clone https://github.com/deluvsushi/13MINXD3V1CE1DG3NCL1QU3V2
+- cd 13MINXD3V1CE1DG3NCL1QU3V2
+- python 13MINXD3V1CE1DG3NCL1QU3V2.py
 ```
